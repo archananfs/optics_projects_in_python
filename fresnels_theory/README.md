@@ -4,9 +4,9 @@
  
  ##Prerequisites
  Following python libraries
-	PyQt5
-	Numpy
-	matplotlib
+ PyQt5
+ Numpy
+ matplotlib
 
 ## Example 
 
