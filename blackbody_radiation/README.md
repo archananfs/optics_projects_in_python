@@ -1,0 +1,1 @@
+This code shows the Planck's law which describes relation between energy density and wavelength of electromagnetic radiation in thermal equilibrium at given Temperature.
